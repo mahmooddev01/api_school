@@ -1,0 +1,3 @@
+### Obtenir toutes les filières
+GET http://localhost:3001/api/filieres
+Accept: application/json
